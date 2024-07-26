@@ -1,0 +1,7 @@
+1. Use 'main.html' to see the analysis and results without running the script.
+2.To run the code please follow the following steps:
+[a]. Install Jupyter Notebook IDE in your local system. 
+[b]. Install the required packages used in the scripts (pandas, numpy, matplotlib, seaborn)
+[c]. In the browser of choice, run "main.ipynb" file.
+
+Note: Time spent to complete this analysis is 3 hours.
